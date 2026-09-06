@@ -1,0 +1,7 @@
+obj/
+threadsmith
+*.o
+*.dSYM/
+.DS_Store
+.vscode/
+.idea/
