@@ -1,6 +1,6 @@
 <div align="center">
 
-# ThreadSmith — The Deadlock-Free Concurrency Engine
+# ThreadSmith: The Deadlock-Free Concurrency Engine
 **A High-Performance POSIX Threads & Scheduling Simulation**
 
 
