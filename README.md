@@ -1,11 +1,9 @@
 # ThreadSmith — The Deadlock-Free Concurrency Engine
 
-![build](https://img.shields.io/github/actions/workflow/status/simossd/ThreadSmith/ci.yml?branch=main&style=for-the-badge&label=build)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![POSIX](https://img.shields.io/badge/POSIX-Threads-555555?style=for-the-badge)
 ![42](https://img.shields.io/badge/42-School-000000?style=for-the-badge)
 ![Valgrind](https://img.shields.io/badge/Valgrind-Clean-1abc9c?style=for-the-badge)
-![Leaks](https://img.shields.io/badge/Leaks-0-2ecc71?style=for-the-badge)
 
 *A strictly-timed POSIX threading simulation that turns the classic Dining
 Philosophers problem into a real-time scheduling race — built to survive
