@@ -173,7 +173,7 @@ deadline, every time.
 ## 🛠️ Usage & Installation
 
 ```bash
-git clone git@github.com:<your-username>/ThreadSmith.git
+git clone https://github.com/simossd/ThreadSmith.git
 cd ThreadSmith
 make
 ```
